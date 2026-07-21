@@ -35,7 +35,7 @@ cd sigg-finca-las-mercedes
 
 Por definir.
 
-## Autor Julian David Lopez La Rotta
+## Autor Yohan Sebastián Castillo Corredor
 
 Zulma Salas
 
